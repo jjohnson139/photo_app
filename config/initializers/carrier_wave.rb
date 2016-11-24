@@ -15,3 +15,5 @@ config.fog_credentials = {
 config.fog_directory = ENV['S3_BUCKET']
 
 end
+
+end

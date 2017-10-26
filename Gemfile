@@ -11,6 +11,7 @@ gem 'stripe'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog'
+gem 'clipboard-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets

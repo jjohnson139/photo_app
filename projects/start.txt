@@ -1,1 +1,3 @@
 Test information for the git course
+
+More new text

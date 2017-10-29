@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Test information for the git course
+
+More new text
+=======
+Test information for the git 
+
+New text
+>>>>>>> simple-changes
